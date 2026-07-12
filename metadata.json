@@ -1,0 +1,6 @@
+{
+  "name": "Greenage Talent Hub",
+  "description": "Premium climate and hardware technology learning ecosystem empowering Africa's next generation of green innovators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
