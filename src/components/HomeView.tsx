@@ -16,6 +16,7 @@ import {
   Briefcase
 } from 'lucide-react';
 import { ActiveTab, Sector } from '../types';
+import heroBanner from '../assets/images/greenage_hero_banner_1783853314702.jpg';
 
 interface HomeViewProps {
   setActiveTab: (tab: ActiveTab) => void;
@@ -213,7 +214,7 @@ export default function HomeView({ setActiveTab, onExplorePrograms }: HomeViewPr
               <div className="relative rounded-2xl overflow-hidden border border-white/10 shadow-2xl shadow-black/80 aspect-video lg:aspect-[4/5] max-w-lg mx-auto group">
                 {/* Embedded generated image with proper referral rule */}
                 <img
-                  src="/src/assets/images/greenage_hero_banner_1783853314702.jpg"
+                  src={heroBanner}
                   alt="Modern clean-energy hardware technical workshop"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   referrerPolicy="no-referrer"

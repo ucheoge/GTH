@@ -18,6 +18,7 @@ import {
   UserCheck
 } from 'lucide-react';
 import { ActiveTab, Track, FellowshipApplication } from '../types';
+import fellowshipLearning from '../assets/images/fellowship_learning_1783853330047.jpg';
 
 interface FellowshipViewProps {
   onSuccess: (app: FellowshipApplication) => void;
@@ -298,7 +299,7 @@ export default function FellowshipView({ onSuccess, setActiveTab }: FellowshipVi
             <div className="lg:col-span-5">
               <div className="relative rounded-2xl overflow-hidden border border-white/10 shadow-xl aspect-video max-w-md mx-auto group">
                 <img
-                  src="/src/assets/images/fellowship_learning_1783853330047.jpg"
+                  src={fellowshipLearning}
                   alt="Fellowship engineers assembling electronics"
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                   referrerPolicy="no-referrer"
