@@ -214,8 +214,8 @@ export default function ContactView() {
                 </div>
                 <div>
                   <span className="text-[10px] text-slate-500 uppercase tracking-wider block font-semibold">Direct Email</span>
-                  <a href="mailto:info@gth.ng" className="font-display font-bold text-base text-white hover:text-brand-green transition-colors">
-                    info@gth.ng
+                  <a href="mailto:uche@greenagetech.com" className="font-display font-bold text-base text-white hover:text-brand-green transition-colors">
+                    uche@greenagetech.com
                   </a>
                   <p className="text-xs text-slate-400 font-sans mt-0.5">We reply to general inquiries within 24 hours.</p>
                 </div>

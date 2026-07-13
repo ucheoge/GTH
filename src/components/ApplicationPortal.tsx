@@ -587,7 +587,7 @@ export default function ApplicationPortal() {
               <p style="margin: 0;"><strong>Greenage Technologies</strong></p>
               <p style="margin: 2px 0;">Enugu Development Laboratory</p>
               <p style="margin: 2px 0;">Enugu State, Nigeria</p>
-              <p style="margin: 2px 0;">www.gth.ng | info@gth.ng</p>
+              <p style="margin: 2px 0;">www.gth.ng | uche@greenagetech.com</p>
             </div>
           </div>
 

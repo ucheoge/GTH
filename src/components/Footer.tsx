@@ -150,7 +150,7 @@ export default function Footer({ setActiveTab }: FooterProps) {
               </li>
               <li className="flex items-center space-x-2.5">
                 <Mail className="w-4 h-4 text-brand-green shrink-0" />
-                <a href="mailto:info@gth.ng" className="hover:text-white transition-colors">info@gth.ng</a>
+                <a href="mailto:uche@greenagetech.com" className="hover:text-white transition-colors">uche@greenagetech.com</a>
               </li>
               <li className="flex items-center space-x-2.5">
                 <Globe className="w-4 h-4 text-brand-green shrink-0" />

@@ -16,7 +16,7 @@ import {
   Briefcase
 } from 'lucide-react';
 import { ActiveTab, Sector } from '../types';
-import heroBanner from '../assets/images/greenage_hero_banner_1783853314702.jpg';
+import heroBanner from '../assets/images/greenage_hero_banner_1783927272566.jpg';
 
 interface HomeViewProps {
   setActiveTab: (tab: ActiveTab) => void;
