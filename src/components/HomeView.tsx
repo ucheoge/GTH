@@ -151,7 +151,7 @@ export default function HomeView({ setActiveTab, onExplorePrograms }: HomeViewPr
                 className="inline-flex items-center space-x-2 px-3 py-1.5 rounded-full bg-brand-green/10 border border-brand-green/20 text-brand-green text-xs font-semibold tracking-wider uppercase font-display"
               >
                 <span className="flex h-2 w-2 rounded-full bg-brand-green animate-ping" />
-                <span>Empowering Africa's Hardware Pioneers</span>
+                <span>Building the Talent That Powers Africa's Energy Transition</span>
               </motion.div>
 
               {/* Title */}
